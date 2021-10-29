@@ -10,7 +10,8 @@ const Home: NextPage = () => {
   return (
     <>
       <div className={styles.container}>
-        Hello
+        <button>Click me to push</button>
+        <h3>Toi ow day voi ban</h3>
       </div>
     </>
   )
